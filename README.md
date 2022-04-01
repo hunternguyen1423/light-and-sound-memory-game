@@ -51,10 +51,10 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[GeeksforGeeks.com and W3schools.com]
+GeeksforGeeks.com and W3schools.com
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+The greatest challenge I had while creating this submission was in the Javascript file and creating the controller for the game. The description and graphical representation provided by CodePath broke it down into small steps for me. However, I feel like a lot of the game was from CodePath's design and not my own, so it was challenging to decide how to even begin. Additionally, this is my first time using javascript and I am still earning about the capabilities and intricacies of the language. I found that javascript uses a lot of C++ syntax requirements such as semicolons and declarations. I overcame the challenge by using my resources that I listed above, and slowly broke up the problem into pieces based on the graphic provided. For example, the function for guess is passed a buttom argument and the graphic asks me "Is guess correct?", so logically I used an if statement there. I continued on through each branch of the tree and eventually I figured out the solution. Another challenge for me was to have the pattern randomly generated. The javascript math library provided a randomly generated number between 0 and 1. This is not what I hoped out of it, as I wanted a random number generator that generates number in the range 
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 [YOUR ANSWER HERE]
