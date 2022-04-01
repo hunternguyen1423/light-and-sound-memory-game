@@ -39,6 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
+
 //Start/Stop Button Toggles when clicked
 ![](http://g.recordit.co/iCveONVi3I.gif)
 //The game has 5 functional game buttons that light up and play a sound.
