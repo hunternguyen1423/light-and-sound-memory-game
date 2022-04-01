@@ -45,7 +45,8 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 ![](http://g.recordit.co/GdKFrD2xQL.gif)
 //Here is a lengthened version that highlights that the noises are playing at a 5 percent faster rate each turn, and that the user has three strikes
 ![](http://g.recordit.co/0dMWoX5tSi.gif)
-![](gif4-link-here)
+//Full Winning Game
+![](http://g.recordit.co/mNdFd31qbw.gif)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
