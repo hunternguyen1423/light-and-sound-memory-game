@@ -4,7 +4,7 @@
 
 Submitted by: Hunter Nguyen
 
-Link to project: (insert your link here, should start with https://glitch.com/edit/#!/judicious-incongruous-soul)
+Link to project: (insert your link here, should start with https://judicious-incongruous-soul.glitch.me/)
 
 ## Required Functionality
 
